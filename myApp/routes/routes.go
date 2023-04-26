@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"goapp/myApp/Controller"
 	"log"
+	"myApp/Controller"
 	"net/http"
 
 	"github.com/gorilla/mux"
